@@ -21,5 +21,52 @@ The NYC Citi Bike Dashboard is a summary of the data. Some key observations
 
 <img width="650" alt="Checkout Times" src="https://user-images.githubusercontent.com/111800568/206309459-5de2946c-664f-4be3-a37c-c83e2533668d.png">
 
-Looking at visualizations for 'Checkout Times for Users' and 'Checkout Times by Gender', we see that most rides are for 20 minutes or less and that the vast majority of rides are less than one hour. We also see that this pattern is the same regardless of Gender.
+Looking at visualizations for **'Checkout Times for Users'** and **'Checkout Times by Gender'**, we see that most rides are for 20 minutes or less and that the vast majority of rides are less than one hour. We also see that this pattern is the same regardless of Gender.
 
+
+### Visualization 3
+
+<img width="596" alt="Trips by Weekday For Each Hour" src="https://user-images.githubusercontent.com/111800568/206310004-4077e0f5-a5f0-430e-9efd-0eba05f5b09d.png">
+
+The heatmap of **'Trips by Weekday per Hour'** shows a clear pattern of bicycle usage 
+  - during the morning weekday commute (7-9 a.m.), 
+  - during the evening weekday commute (4-7 p.m.) except on Wednesday evenings, and 
+  - All day long on weekends.
+
+### Visualization 4
+
+<img width="1220" alt="Trips by Gender By Weekday" src="https://user-images.githubusercontent.com/111800568/206310331-4d2780bb-9019-4942-a03f-4d17273e6bfa.png">
+
+The **'Trips by Gender (Weekday per Hour)'** heatmap shows that the usage pattern is actual regardless of Gender, although the total numbers for males are considerably higher
+
+### Visualization 5
+
+<img width="1228" alt="User Trips By Gender By Weekday" src="https://user-images.githubusercontent.com/111800568/206310644-69b1174c-9854-4a63-8b51-51d7449a0aea.png">
+
+The **'User Trips by Gender by Weekday'** heatmap demonstrates the following points: subscribers are primarily male and account for most of the weekday activity, customers' Gender is often unknown, and usage on the weekend is split more evenly between subscribers and customers.
+
+### Visualization 6
+
+<img width="609" alt="Bike Repair   Utilization" src="https://user-images.githubusercontent.com/111800568/206310813-a940c826-f73d-4543-9575-88fb447351d1.png">
+
+The  **'Bike Utilization' and 'Bike Repairs'** charts show that some bikes are used for many trips and total hours, while others are hardly used. More analysis is called for to assess whether there are predictable patterns of use for high- or low-use bikes.
+
+### Additional Analysis
+
+We recommend further analysis for a few points.
+
+ - We have seen that most trips are for less than 30 minutes; further analysis is required to compare weekday and weekend trips.
+ 
+ - Analysis of bikes with the highest usage - study the usage pattern concerning routes, starting and ending locations.
+ 
+ - Ride Starting Locations by Gender
+ 
+<img width="964" alt="Top Starting Stations By Gender" src="https://user-images.githubusercontent.com/111800568/206311201-d7332dc6-a357-407d-8cae-d195adfb95fc.png">
+
+Males are more likely to start a trip farther than the main city center of NYC than others. 
+
+ - Ride Ending locations by Gender
+ 
+ <img width="975" alt="Top Ending Stations By Gender" src="https://user-images.githubusercontent.com/111800568/206311307-0548ddce-5b4d-46c1-91d8-3b87a4cd7d65.png">
+
+Males are likelier to end a trip across the river in the southwest of NYC than others. 
