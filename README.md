@@ -70,3 +70,9 @@ Males are more likely to start a trip farther than the main city center of NYC t
  <img width="975" alt="Top Ending Stations By Gender" src="https://user-images.githubusercontent.com/111800568/206311307-0548ddce-5b4d-46c1-91d8-3b87a4cd7d65.png">
 
 Males are likelier to end a trip across the river in the southwest of NYC than others. 
+
+The links for the Tableau Public are given below
+
+(NYC Citi Bike Sharing Assignment) [https://public.tableau.com/app/profile/pawan.kumar.vadlamani/viz/NYCCitiBikeSharingAssignment/Story1?publish=yes]
+
+(NYC Citi Bike Sharing Exercise) [https://public.tableau.com/app/profile/pawan.kumar.vadlamani/viz/NYCCitiBikeexercise/Story1?publish=yes]
